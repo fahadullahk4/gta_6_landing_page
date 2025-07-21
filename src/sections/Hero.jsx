@@ -27,7 +27,6 @@ const Hero = () => {
 				scrub: 2.5,
 				end: "+=200%",
 				pin: true,
-				markers: true,
 			},
 		});
 		tl.to(".fade-out", {

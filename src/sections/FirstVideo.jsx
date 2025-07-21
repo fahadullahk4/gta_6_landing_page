@@ -14,7 +14,6 @@ const FirstVideo = () => {
 				end: "+=200% top",
 				scrub: true,
 				pin: true,
-				markers: true,
 			},
 		});
 		tl.to(".hero-section", {
